@@ -2,6 +2,6 @@
 
 This alfred workflow helps for switching your sound output.
 
-Note: For chinese users, please download `Switch Sound Output (CHN).alfredworkflow`.
+Note: For Chinese users, please download `Switch Sound Output (CHN).alfredworkflow`.
 
 ![screenshot](screenshot.png)
